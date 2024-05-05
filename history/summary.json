@@ -275,19 +275,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tautulli",
     "status": "up",
-    "uptime": "1.68%",
-    "uptimeDay": "1.68%",
-    "uptimeWeek": "1.68%",
-    "uptimeMonth": "1.68%",
-    "uptimeYear": "1.68%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 742,
     "timeDay": 742,
     "timeWeek": 742,
     "timeMonth": 742,
     "timeYear": 742,
-    "dailyMinutesDown": {
-      "2024-05-05": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wizarr",
