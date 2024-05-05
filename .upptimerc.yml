@@ -3,34 +3,57 @@ owner: nboxdev # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Plex Server
+    url: $SECRET_SITE001
+  - name: Bazarr
+    url: $SECRET_SITE002
+  - name: Bazarr4K
+    url: $SECRET_SITE003
+  - name: Immich
+    url: $SECRET_SITE004
+  - name: Lavalink
+    url: $SECRET_SITE005
+    expectedStatusCodes:
+      - 401
+  - name: LibreSpeed
+    url: $SECRET_SITE006
+  - name: Memos
+    url: $SECRET_SITE007
+  - name: Notifiarr
+    url: $SECRET_SITE008
+  - name: Prowlarr
+    url: $SECRET_SITE009
+  - name: qBittorrent
+    url: $SECRET_SITE010
+  - name: Radarr
+    url: $SECRET_SITE011
+  - name: Radarr4K
+    url: $SECRET_SITE012
+  - name: SABnzbd
+    url: $SECRET_SITE013
+  - name: Sonarr
+    url: $SECRET_SITE014
+  - name: Sonarr4K
+    url: $SECRET_SITE015
+  - name: Tautulli
+    url: $SECRET_SITE016
+  - name: Wizarr
+    url: $SECRET_SITE017
+  - name: Wrapperr
+    url: $SECRET_SITE018
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: up.nbox.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://i.imgur.com/gJLLHQE.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a sample status page for nbox.dev
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
