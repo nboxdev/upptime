@@ -22,19 +22,19 @@
     "url": "$SECRET_SITE002",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bazarr",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 541,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 529,
     "timeDay": 470,
-    "timeWeek": 541,
-    "timeMonth": 541,
-    "timeYear": 541,
+    "timeWeek": 529,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {
-      "2024-05-07": 0
+      "2024-05-07": 11
     }
   },
   {
