@@ -208,19 +208,19 @@
     "url": "$SECRET_SITE022",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "overseerr-kids-nordic",
-    "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "3.41%",
+    "uptimeDay": "3.41%",
+    "uptimeWeek": "3.41%",
+    "uptimeMonth": "3.41%",
+    "uptimeYear": "3.41%",
+    "time": 906,
+    "timeDay": 906,
+    "timeWeek": 906,
+    "timeMonth": 906,
+    "timeYear": 906,
     "dailyMinutesDown": {
-      "2024-06-22": 0
+      "2024-06-22": 5
     }
   },
   {
