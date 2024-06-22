@@ -29,12 +29,16 @@ sites:
     url: $SECRET_SITE011
   - name: Radarr4K
     url: $SECRET_SITE012
+  - name: Radarr (Nordic)
+    url: $SECRET_SITE019
   - name: SABnzbd
     url: $SECRET_SITE013
   - name: Sonarr
     url: $SECRET_SITE014
   - name: Sonarr4K
     url: $SECRET_SITE015
+  - name: Sonarr (Nordic)
+    url: $SECRET_SITE020
   - name: Tautulli
     url: $SECRET_SITE016
   - name: Wizarr
