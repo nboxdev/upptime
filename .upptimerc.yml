@@ -23,7 +23,7 @@ sites:
     url: $SECRET_SITE008
   - name: Overseerr
     url: $SECRET_SITE021
-  - name: Overseerr (Kids|Nordic)
+  - name: Overseerr (Kids/Nordic)
     url: $SECRET_SITE022
   - name: Prowlarr
     url: $SECRET_SITE009
@@ -33,7 +33,7 @@ sites:
     url: $SECRET_SITE011
   - name: Radarr4K
     url: $SECRET_SITE012
-  - name: Radarr (Kids|Nordic)
+  - name: Radarr (Kids/Nordic)
     url: $SECRET_SITE019
   - name: SABnzbd
     url: $SECRET_SITE013
@@ -41,7 +41,7 @@ sites:
     url: $SECRET_SITE014
   - name: Sonarr4K
     url: $SECRET_SITE015
-  - name: Sonarr (Kids|Nordic)
+  - name: Sonarr (Kids/Nordic)
     url: $SECRET_SITE020
   - name: Tautulli
     url: $SECRET_SITE016
